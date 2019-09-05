@@ -18,6 +18,7 @@
   "homepage": "https://github.com/PMHStudio/SchoolNotificationSystem#readme",
   "dependencies": {
     "electron": "^5.0.1",
+    "express": "^4.17.1",
     "regedit": "^3.0.2",
     "superagent": "^5.0.5"
   }
